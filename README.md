@@ -109,15 +109,15 @@ Simple steps to set this thing on your system.
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   yarn
    ```
 3. Run the project in development mode on your system
    ```sh
-   npm run dev
+   yarn dev
    ```
 4. Create a production build using Vite
    ```sh
-   npm run build
+   yarn build
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
